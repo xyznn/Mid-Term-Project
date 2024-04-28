@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+오픈소스 SW 활용 3분반 중간 과제
+포트폴리오용 웹페이지 제작
+소프트웨어학과 32227409 서하진 입니다.
